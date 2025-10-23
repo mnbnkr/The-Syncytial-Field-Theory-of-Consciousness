@@ -10,7 +10,7 @@ For over a century, our model of the brain has been built upon a principle of di
 
 This theory posits that the unified awareness we experience is the direct manifestation of a single, holistic **ionic field** sustained within this syncytium. It is a framework that embraces the axiom of connectivity, offering a physical solution to the problems of binding and subjective experience, and re-casting a century of neuroscience in a new, more integrated light.
 
-### **Chapter I: The Discontinuous Brain: A Crisis of Connection**
+### **I: The Discontinuous Brain: A Crisis of Connection**
 
 The Neuron Doctrine established the neuron as the fundamental unit of brain function. Its model is one of digital precision: action potentials fire or they do not. These signals propagate and are transmitted across synapses via chemical messengers. This framework masterfully explains the brain as a computational device, an information processor of unparalleled power. It has allowed us to map circuits, understand learning, and decode the logic of neural pathways.
 
@@ -18,7 +18,7 @@ Yet, its very strength in explaining computation is its fatal weakness in explai
 
 Proposed solutions like "temporal synchrony," where neurons in different areas fire in a coordinated rhythm, are mathematically elegant but physically unsatisfying. They describe a correlation, but they do not provide a mechanism for true unity. A synchronized flashing of disconnected lights does not create a single, continuous image; it creates a pattern of synchronized but separate points. The problem remains: a system of discrete parts, no matter how well-coordinated, cannot account for the genuinely continuous and analog nature of a phenomenal field. The crisis of the neuron-centric model is a crisis of connectivity. It provides the points, but it cannot provide the space between them.
 
-### **Chapter II: The Substrate of Continuity: The Astroglial Syncytium**
+### **II: The Substrate of Continuity: The Astroglial Syncytium**
 
 While neuroscience focused on the neuronal archipelago, the continent was hiding in plain sight. Glial cells, once dismissed as passive "glue," constitute a vast and interconnected network. Among them, astrocytes are unique. They are not isolated from one another by synaptic gaps. Instead, they are physically fused into a single, cohesive entity by thousands of protein channels called **gap junctions**.
 
@@ -32,7 +32,7 @@ The electrophysiological properties of this structure, as detailed in recent res
 
 The astroglial syncytium is the only large-scale architecture in the brain that fulfills the axiom of connectivity. It is a pre-existing, unified medium, perfectly suited to integrate the fragmented, digital signaling of trillions of neuronal synapses into a single, holistic, and continuous state.
 
-### **Chapter III: The Nature of the Field: An Ionic Architecture**
+### **III: The Nature of the Field: An Ionic Architecture**
 
 The Syncytial Field Theory posits that consciousness is the holistic state of a field sustained within this syncytial medium. It is crucial to define this field with scientific precision and distinguish it from speculative, non-cellular theories.
 
@@ -48,7 +48,7 @@ Now, consider this process multiplied by millions of neurons firing in a complex
 
 This dynamic, ever-shifting Potential Landscape **IS** the ionic field of consciousness. It is not the flow of the individual ions that matters, just as it is not the jiggling of individual water molecules that defines a wave. It is the continuous, holistic shape of the wave itself. Consciousness is the shape of this field.
 
-### **Chapter IV: The Two Modes of Experience: Representation and Resonance**
+### **IV: The Two Modes of Experience: Representation and Resonance**
 
 This single ionic field is capable of carrying information in two distinct but coexistent modes, accounting for the entire spectrum of experience, from objective perception to subjective feeling.
 
@@ -62,7 +62,7 @@ This mode generates the internally-generated qualia of emotion and affect. Neuro
 
 The unified conscious moment is the simultaneous existence of both modes within the same field. Like a vibrating drum skin that also has an indentation pressed into it, the syncytial field simultaneously manifests a stable representational landscape and a global affective resonance. This is how the sight of a face (a representational quale) is seamlessly bound to the feeling of love it evokes (an affective quale). They are different expressions of the same continuous medium.
 
-### **Chapter V: The Evidence for a Conscious Field**
+### **V: The Evidence for a Conscious Field**
 
 A theory, no matter how elegant, must be anchored in empirical reality. The Syncytial Field Theory is not a mere philosophical construct; it stands on a foundation of converging evidence from multiple domains of neuroscience, evidence that has often been overlooked or misinterpreted within the neuron-centric paradigm.
 
@@ -90,7 +90,7 @@ The Syncytial Field Theory does not contradict these findings; it completes them
 
 As explored earlier, music provides a powerful line of experiential evidence. It acts as a direct modulator of the Resonant Field, an external acoustic architecture that can physically induce the ionic field states that constitute emotion. Its ability to bypass language and directly generate feelings of joy, tension, or sadness is strong evidence for a mode of consciousness that operates on the principles of physical resonance and wave interference, a core tenet of the theory.
 
-### **Chapter VI: The Symbiotic Brain: Drivers, Tuners, and the Emergence of Meaning**
+### **VI: The Symbiotic Brain: Drivers, Tuners, and the Emergence of Meaning**
 
 This new framework redefines the relationship between the brain's components into a more elegant symbiosis.
 
@@ -100,7 +100,7 @@ This new framework redefines the relationship between the brain's components int
 
 **Meaning via Resonance:** The "Lock and Key" mechanism explains how a physical field state acquires meaning. The specific spatial and temporal signature of a field pattern (the key) resonates with specific neuronal circuits (the locks) that have been tuned by a lifetime of experience. The unified experience of "red" is the total event of the syncytium adopting the "red field state" while simultaneously unlocking all associated neural circuits for language, memory, and action.
 
-### **Chapter VII: The Function of Awareness: A Solution to the "Hard Problem"**
+### **VII: The Function of Awareness: A Solution to the "Hard Problem"**
 
 This brings us to the ultimate question: Why are we aware at all? Why couldn't all this processing "go on in the dark"? The Syncytial Field Theory provides a functional, evolutionary answer that directly addresses this "Hard Problem."
 
@@ -110,7 +110,7 @@ The evolutionary advantage is immense. An organism that must process sensory dat
 
 The process cannot "go on in the dark" because the "light" of conscious awareness _is_ the very mechanism of holistic integration that provides the survival advantage. The subjective, felt quality of consciousness—the "what it is like" to be aware—is the intrinsic physical character of this massively integrated informational state. The richness of qualia is the richness of the information woven into the field. Awareness is not a ghost in the machine; it is the most efficient data-processing strategy nature has ever devised.
 
-### **Chapter VIII: New Horizons: Implications of a Field-Based Mind**
+### **VIII: New Horizons: Implications of a Field-Based Mind**
 
 The Syncytial Field Theory is not an end point, but a beginning. It reorients the search for consciousness from the neuron to the network that embeds it, and from a computational problem to a field-physics problem.
 
