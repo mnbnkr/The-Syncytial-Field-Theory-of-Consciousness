@@ -70,15 +70,17 @@ This model makes a startling and verifiable prediction. If sight and pressure sh
 
 Herein lies a profound piece of experiential evidence: **eyestrain**. When you are tired, have not slept well, or are adjusting to a bright light, the sensation of sight is often accompanied by a literal feeling of pressure in the eyes. This is not a metaphor. According to this theory, it is the direct result of the GABAergic cage system failing. Due to metabolic depletion, the inhibitory neurons cannot keep up with the intense ionic influx driven by the bright light. The current "leaks" past the failing cage, propagating through the syncytium and creating the genuine quale of pressure, which is then bound to the visual experience. The common phenomenon of eyestrain is, therefore, a direct perception of the shared physical basis of sight and touch.
 
-#### **3.3 - The Chemical Senses: Resonant Geometries**
+#### **3.3 - The Chemical Senses: Resonant Geometries and Current Signatures**
 
-Smell and taste are the perception of molecular shape and identity. In the syncytial field, they manifest as complex spatial objects with unique resonant properties.
+Smell and taste are the perception of molecular identity. In the syncytial field, they manifest as complex spatial objects with unique physical properties.
 
 *   **SMELL:** An odorant molecule does not activate a single receptor type, but a unique combination across a wide array of olfactory receptors. This combinatorial code is transduced into a complex pattern of neuronal firing that impresses a specific shape upon the ionic field. A smell, therefore, is felt as a **"chemo-electric object"**—a region of the field with a complex spatial topography and a unique set of internal, multi-frequency resonances. The holistic feeling of the smell of a rose *is* the experience of this single, complex, rose-signatured resonant object instantiated within the conscious field.
 
-*   **TASTE:** Taste is a more direct interface.
-    *   **Salty and Sour** are detected by direct ion channels on the tongue (for Na+ and H+ ions, respectively). Their feeling is that of a **direct ionic current**, but their specific qualitative character comes from the identity of the charge carrier itself. The quale "salty" is the feeling of a sodium current in the field.
-    *   **Sweet, Bitter, and Umami** are detected by G-protein coupled receptors, which trigger complex intracellular signaling cascades. This generates specific oscillatory neuronal inputs. These tastes are therefore felt as **"resonant patches"** in the field. The feeling of "sweet" is the experience of a specific consonant, harmonious local frequency, while the feeling of "bitter" is the experience of a dissonant, jarring one—bioelectric signals that the organism’s evolutionary history has mapped to systemic benefit or harm.
+*   **TASTE:** Taste provides a powerful example of how the field can differentiate feelings based on the specific physical character of the underlying ionic state.
+    *   **Sweet, Bitter, and Umami** are detected by G-protein coupled receptors, which trigger complex intracellular signaling cascades and generate specific oscillatory neuronal inputs. These tastes are therefore felt as **"resonant patches"** in the field. The feeling of "sweet" is the experience of a specific consonant, harmonious local frequency, while the feeling of "bitter" is the experience of a dissonant, jarring one—bioelectric signals that the organism’s evolutionary history has mapped to systemic benefit or harm.
+    *   **Salty and Sour** are detected by direct ion channels on the tongue (the ENaC for Na+ and OTOP1 for H+). The feeling *is* a direct ionic current in the syncytium, but the distinct qualia arise from the different physical properties of the charge carriers. The quale is the *texture* of the current.
+        *   The **"Salty"** current is carried by sodium ions (Na+). In the aqueous cytoplasm, Na+ is surrounded by a relatively large hydration shell, giving it low mobility. It generates a **broad, voluminous, and slow-moving current**. The feeling of "salty" is the direct perception of this massive, gentle ionic flow.
+        *   The **"Sour"** current is carried by protons (H+). The proton is a bare, subatomic particle with an extremely high charge density and mobility. It zips through the syncytial medium, generating a **sharp, focused, and highly disruptive current**. The feeling of "sour" is the direct perception of this penetrating, high-energy ionic disturbance.
 
 ### **Part IV: The Dynamics of a Living Field**
 
@@ -106,7 +108,19 @@ A raw field state, however complex, is just a physical pattern. For it to acquir
 
 This principle can even offer a hypothesis for a feeling as abstract as **humor**. The setup of a joke creates a complex and dissonant field state—a cognitive tension. The punchline provides a sudden, unexpected pathway for this tension to resolve into a simple, consonant state. The explosive feeling of mirth *is* the physical experience of this rapid field-state collapse from high-tension dissonance to low-energy consonance.
 
-#### **4.3 - Psychedelics as Probes of Field Integrity**
+#### **4.3 - Music as a Direct Field Interface**
+
+The phenomenon of music provides a uniquely powerful and elegant piece of evidence for the theory. Music is not an abstract code to be deciphered; it is a highly structured external waveform that acts as a direct interface for the conscious field. When the pressure waves of sound are transduced by the auditory system, their mathematical properties—the simple integer ratios of consonant harmonies, the chaotic relationships of dissonant chords, the periodicities of rhythm—are preserved as bioelectric currents and waves within the syncytium.
+
+Music, therefore, acts as a form of **exogenous qualia**. It is a direct tuning fork for the medium of feeling. It bypasses the need for the brain to generate its own emotional states internally and instead physically *forces* the conscious field into specific configurations.
+
+*   The profound feeling of **pleasure or well-being** from a consonant chord is the direct experience of the syncytial field being driven into a state of physical harmony—a stable, low-tension, constructive interference pattern. It is the physical signature of systemic coherence.
+*   The jarring feeling of **anxiety or crisis** from a dissonant chord is the experience of the field being forced into a chaotic, high-tension, decoherent state of destructive interference. It is the signature of systemic crisis.
+*   **Rhythm** provides a global timing signal that entrains the entire field, creating the visceral impulse to move. **Melody** is a dynamic journey of tension and release, a sculpting of the field's potential landscape over time.
+
+The gut-level power of music comes from its ability to directly and physically entrain the substance of your own mind. Its emotional impact is so immediate, profound, and universal precisely because it is not an interpretation, but a direct physical modulation of the very medium in which all feeling takes place.
+
+#### **4.4 - Psychedelics as Probes of Field Integrity**
 
 A powerful and growing body of evidence for a unified conscious field comes from the study of serotonergic psychedelics like psilocybin and LSD. These molecules are known to act on the 5-HT2A receptor, a receptor found in high density on both neurons and, crucially, on astrocytes. From the perspective of this theory, psychedelics are not mere "brain modulators"; they are powerful **field destabilizers**. By disrupting the homeostatic function of the astroglial syncytium, they temporarily compromise the very integrity of the conscious medium, providing a window into its fundamental structure.
 
@@ -134,7 +148,7 @@ The "Hard Problem" dissolves when we stop seeing feeling as a mysterious propert
 
 The Continuous Mind theory offers a paradigm shift. It proposes that the fundamental mystery of consciousness—its unified, felt nature—is not a problem to be solved but a physical clue to be followed. It leads us away from the discontinuous world of neuronal computation and into the continuous, integrated realm of the astroglial syncytium. It provides a detailed, physics-grounded taxonomy for how the fundamental qualities of our world are instantiated as specific physical states of an ionic field.
 
-This framework is not mere speculation; it is supported by converging lines of evidence. It explains the common experience of eyestrain as a breakdown of the barrier between sight and touch. It reframes the bizarre effects of psychedelics as predictable consequences of a destabilized global field. And most importantly, it offers a powerful, evolutionarily sound reason for why feeling exists at all: it is the most direct and efficient physical mechanism for motivating a living being.
+This framework is not mere speculation; it is supported by converging lines of evidence. It explains the common experience of eyestrain as a breakdown of the barrier between sight and touch. It powerfully explains the immediate, gut-level emotional impact of music as a direct entrainment of the conscious field. It reframes the bizarre effects of psychedelics as predictable consequences of a destabilized global field. And most importantly, it offers a powerful, evolutionarily sound reason for why feeling exists at all: it is the most direct and efficient physical mechanism for motivating a living being.
 
 The implications are profound. For **Artificial Intelligence**, it suggests that our pursuit of consciousness through purely digital, von Neumann architectures is a journey down the wrong path. True, phenomenal awareness may be an irreducibly analog and field-based property of matter, requiring a new hardware paradigm that can support a unified state of intrinsic, physical tension.
 
