@@ -101,6 +101,7 @@
       }
 
       p {
+        text-indent: 1em;
         margin-bottom: 20px;
         text-align: justify;
         color: #3a4f63;
@@ -123,6 +124,16 @@
 
       li {
         margin-bottom: 12px;
+      }
+
+      li p,
+      ul p,
+      ol p {
+        text-indent: 0;
+      }
+
+      .no-indent {
+        text-indent: 0;
       }
 
       footer {
@@ -338,7 +349,7 @@
 
       <main>
         <h2>Abstract</h2>
-        <p>
+        <p class="no-indent">
           For centuries, the unified nature of conscious experience has remained
           the most profound mystery in science and philosophy. While
           neuroscience has excelled at mapping the brain's discrete
